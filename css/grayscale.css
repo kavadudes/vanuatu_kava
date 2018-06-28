@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Grayscale v3.3.7+1 (http://startbootstrap.com/template-overviews/grayscale)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
@@ -147,7 +147,7 @@ a:focus {
     padding: 0;
   }
   .intro .intro-body .brand-heading {
-    font-size: 100px;
+    font-size: 80px;
   }
   .intro .intro-body .intro-text {
     font-size: 26px;
